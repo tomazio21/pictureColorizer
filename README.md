@@ -1,0 +1,1 @@
+A simple html view and js file that together allows a user to input an image and a song and then when played, changes the colors of the image to match that of the loudest decibel frequency at that point in time of the song.
